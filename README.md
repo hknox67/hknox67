@@ -1,7 +1,23 @@
 - 👋 Hi, I’m @hknox67
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+- Robotics. 
+- Interface Design,
+- Mobile Development,
+- Game Development,
+- Software Architecture,
+- Digital Artworkm 
+-
+- 🌱 I’m currently learning,
+
+- Advanced Python 
+- Advanced Java Coding 
+- Advanced C++
+- Advanced C 
+- 
 - 💞️ I’m looking to collaborate on ...
+- Game devlopment 
+- 
 - 📫 How to reach me ...
 
 <!---
